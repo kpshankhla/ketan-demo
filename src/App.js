@@ -62,7 +62,7 @@ export default (state = initialState, action) => {
         
         
 
-        <h1></h1>
+       
       
         <a
           className="App-link"
